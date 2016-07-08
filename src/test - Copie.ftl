@@ -2,7 +2,7 @@
 <#list events as event>
 <@pp.changeOutputFile name=event.entityName+"Event.java" />
 package org.zenithar.app.service.events;
-ffff
+ffff  ggg
 import org.zenithar.app.service.events.AbstractEvent;
 import org.zenithar.app.service.dto.${event.payloadType};
 
